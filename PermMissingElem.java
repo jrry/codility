@@ -1,3 +1,7 @@
+/**
+ * @author Jarosław Pawłowski
+ */
+
 class PermMissingElem 
 {
     public int solution(int[] A) 

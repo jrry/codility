@@ -1,3 +1,7 @@
+/**
+ * @author Jarosław Pawłowski
+ */
+
 class OddOccurrencesInArray 
 {
     public int solution(int[] A) 

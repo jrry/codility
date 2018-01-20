@@ -1,3 +1,7 @@
+/**
+ * @author Jarosław Pawłowski
+ */
+
 class BinaryGap 
 {
     public int solution(int N) 

@@ -1,3 +1,7 @@
+/**
+ * @author Jarosław Pawłowski
+ */
+
 class CyclicRotation
 {
     public int[] solution(int[] A, int K)

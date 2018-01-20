@@ -1,3 +1,7 @@
+/**
+ * @author Jarosław Pawłowski
+ */
+
 class FrogJmp 
 {
     public int solution(int X, int Y, int D) 

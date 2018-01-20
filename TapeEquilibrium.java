@@ -1,3 +1,7 @@
+/**
+ * @author Jarosław Pawłowski
+ */
+
 class Solution {
     public int solution(int[] A) {
         int sum = 0;

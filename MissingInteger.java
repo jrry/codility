@@ -1,6 +1,10 @@
 import java.util.HashSet;
 import java.util.Set;
 
+/**
+ * @author Jarosław Pawłowski
+ */
+
 class Solution {
     public int solution(int[] A) {
         Set<Integer> ss = new HashSet<>();
